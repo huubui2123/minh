@@ -1,6 +1,10 @@
 <html>
-<tittle>How to build a PC</tittle>
-<body>
+  <head>
+    <tittle>How to build a PC</tittle>
+  </head>
+  <body>
+    <h1>CPU</h1>
+    <p>exanple</p>
 
-</body>
+  </body>
 </html>
